@@ -34,10 +34,12 @@ This project is a desktop application that aims to replicate the functionalities
 **Installation:**
 
 1. Clone the repository: git clone https://github.com/alicodes02/Google-Classroom-Clone-Database-Project.git
-2. Set up the SQL Server database by running the provided SQL scripts.
-3. Open the project in Visual Studio.
-4. Update the database connection string in the configuration file (appsettings.json) with your SQL Server credentials.
-5. Build and run the application.
+2. Set up the SQL Server database.
+3. Open "DBFile.sql" in Sql Server.
+4. Run the script.
+5. Open the project in Visual Studio.
+6. Update the database connection string in the "DBConnection.cs" File with your SQL Server credentials.
+7. Build and run the application.
 
 **Usage:**
 1. Open the application and sign up as a teacher or log in if you already have an account.
